@@ -1,5 +1,5 @@
 
-#COMP2240-A2.Problem-2 Monitor & Syncronisation. 
+#COMP2240-A2.Problem-2 Monitor & Synchronisation. 
 Mark Received - 100%
 
 
